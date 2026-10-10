@@ -1,0 +1,9 @@
+FINOVO_Submission/
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── app.js
+├── README.md
+├── SUBMISSION_NOTES.md
+└── PROJECT_STRUCTURE.txt
